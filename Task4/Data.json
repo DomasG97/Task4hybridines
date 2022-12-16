@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Harry Potter: Deathly Hollows",
+        "author": "J. K. Rowling",
+        "year" : "2007",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a9/Harry_Potter_and_the_Deathly_Hallows.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Metro 2033",
+        "author": "Dmitry Glukhovsky",
+        "year" : "2002",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/04/Metro_2033_russian_book_front_cover.jpg"
+    },
+    {
+        "id": 3,
+        "title": "",
+        "author": "",
+        "year" : "",
+        "imageUrl": ""
+    }
+]
